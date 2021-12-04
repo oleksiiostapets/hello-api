@@ -1,0 +1,9 @@
+{
+  "name": "hello-api",
+  "main": "server.js",
+  "dependencies": {
+    "express": "~4.17.1",
+    "express-session": "^1.17.2",
+    "helmet": "^4.6.0"
+  }
+}
